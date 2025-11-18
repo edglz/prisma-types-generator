@@ -1,4 +1,4 @@
-# Prisma TypeTags (Prisma → TypeScript GUI)
+# Prisma Types Generator(Prisma → TypeScript GUI)
 
 Herramienta de escritorio (Tkinter) para convertir un esquema Prisma (`schema.prisma`) en tipos de TypeScript. Prisma TypeTags genera un único archivo o divide por esquemas, con opciones como tipos "planos" y un `index.ts` de reexportación.
 
