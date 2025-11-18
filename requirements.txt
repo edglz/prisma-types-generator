@@ -1,0 +1,3 @@
+# requirements.txt
+# No third-party dependencies required.
+# Script uses only Python standard library (tkinter, zipfile, dataclasses, etc.).
